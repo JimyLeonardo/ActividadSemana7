@@ -1,0 +1,184 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Comercializadora
+build_property.RootNamespace = Comercializadora
+build_property.ProjectDir = C:\Users\Admon\Desktop\Especializacion Desarrollo de software\Plataformas de Desarrollo de Software\Trabajos\Comercializadora\Comercializadora\Comercializadora\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Admon\Desktop\Especializacion Desarrollo de software\Plataformas de Desarrollo de Software\Trabajos\Comercializadora\Comercializadora\Comercializadora
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/Movimientoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aW1pZW50b2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/Movimientoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aW1pZW50b2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/Movimientoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aW1pZW50b2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/Movimientoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aW1pZW50b2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/Movimientoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aW1pZW50b2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/Productoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/Productoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/Productoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/Productoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/Productoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/Terceroes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVyY2Vyb2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/Terceroes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVyY2Vyb2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/Terceroes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVyY2Vyb2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/Terceroes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVyY2Vyb2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/Terceroes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVyY2Vyb2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/TipoMovimientoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb01vdmltaWVudG9lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/TipoMovimientoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb01vdmltaWVudG9lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/TipoMovimientoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb01vdmltaWVudG9lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/TipoMovimientoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb01vdmltaWVudG9lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/TipoMovimientoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb01vdmltaWVudG9lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/TipoTerceroes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1RlcmNlcm9lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/TipoTerceroes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1RlcmNlcm9lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/TipoTerceroes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1RlcmNlcm9lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/TipoTerceroes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1RlcmNlcm9lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/TipoTerceroes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1RlcmNlcm9lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/TipoUsuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1VzdWFyaW9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/TipoUsuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1VzdWFyaW9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/TipoUsuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1VzdWFyaW9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/TipoUsuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1VzdWFyaW9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/TipoUsuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1VzdWFyaW9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Admon/Desktop/Especializacion Desarrollo de software/Plataformas de Desarrollo de Software/Trabajos/Comercializadora/Comercializadora/Comercializadora/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ziedmifbop
